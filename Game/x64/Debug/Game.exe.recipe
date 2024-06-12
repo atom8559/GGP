@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\atom8\OneDrive\바탕 화면\KHU_GameGraphicsProgramming\Build\x64\Debug\Game.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\atom8\OneDrive\바탕 화면\KHU_GameGraphicsProgramming\Build\x64\Debug\PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\atom8\OneDrive\바탕 화면\KHU_GameGraphicsProgramming\Build\x64\Debug\PSSolid.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\atom8\OneDrive\바탕 화면\KHU_GameGraphicsProgramming\Build\x64\Debug\Shader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\atom8\OneDrive\바탕 화면\KHU_GameGraphicsProgramming\Build\x64\Debug\VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
